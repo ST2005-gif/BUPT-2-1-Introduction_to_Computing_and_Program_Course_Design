@@ -10,6 +10,7 @@
 
 ### 项目设定
 使用语言：C语言
+
 编译平台：Visual Studio
 
 ### 项目架构
@@ -25,11 +26,12 @@ BUPT-2-1-Introduction_to_Computing_and_Program_Course_Design/
 │   │   ├── 📂 test2
 │   │   ├── 📂 ……
 │   │   ├── 📂 test8
-│   │   └── README.md
+│   │   └── README.md                # 测试数据使用方法
 │   └── 📂 docs/                     # 项目文档
 │       ├── 基础版设计报告.docx
-│       ├── 图形化版设计报告.docx
-├── 📂 大作业要求/                 # 要求文档
+│       └── 图形化版设计报告.docx
+├── 📂 大作业要求/                    # 要求文档
 │   ├── 基础功能要求.docx
 │   └── 图形化版要求.docx
 └── 📄 README.md
+```
