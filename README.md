@@ -8,6 +8,8 @@
 
 图形化版使用了easyx第三方库
 
+[项目说明](https://github.com/ST2005-gif/Course-Learning-Tips-from-bupt-scs/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B)
+
 ### 项目设定
 使用语言：C语言
 
